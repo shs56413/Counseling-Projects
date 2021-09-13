@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mindful Counseling</title>
+    <link
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="page">
+      <nav class="menu">
+        <div class="menu__item menu__item_theme_landscape">
+          <a href="#" class="menu__link menu__link_theme_landscape">1</a>
+          <img
+            src="Connectivity Art.png"
+            alt=""
+            class="menu__picture menu__picture_theme_landscape"
+          />
+        </div>
+        <div class="menu__item menu__item_theme_portrait">
+          <a href="#" class="menu__link menu__link_portrait">2</a>
+          <img
+            src="Empathy Art.png"
+            alt=""
+            class="menu__picture menu__picture_theme_portrait"
+          />
+        </div>
+        <div class="menu__item menu__item_theme_viewpoint">
+          <a href="#" class="menu__link menu__link_viewpoint">3</a>
+          <img
+            src="Mindfulness.png"
+            class="menu__picture menu__picture_theme_viewpoint"
+          />
+        </div>
+        <div class="menu__item menu__item_theme_expression">
+          <a href="#" class="menu__link menu__link_expression">4</a>
+          <img
+            src="Acceptance And Commitment.png"
+            alt=""
+            class="menu__picture menu__picture_theme_expression"
+          />
+        </div>
+      </nav>
+      <section class="content">
+        <div class="content__container">
+          <div class="content__head">
+            <h1 class="content__title content__title_item_main">
+              4 Ideas to Modern Counseling
+            </h1>
+            <p class="content__text"></p>
+            <p class="content__quote">
+              "The meeting of two personalities is like the contact of two
+              chemical substances: if there is any reaction, both are
+              transformed."
+              <span class="content__quote-origin"> Carl Jung</span>
+            </p>
+          </div>
+          <div class="content__item">
+            <h2 class="content__title content__title_item_sub">
+              Emotions As They Relate To Art
+            </h2>
+            <h3 class="content__title content__title_item_method">
+              1. Connectivity
+            </h3>
+            <p class="content__text">
+              Connection in the therapeutic relationship is so significant. With
+              a solid foundation, the oppenness of the session becomes more
+              prevalent, resulting in multiple pathways for a conversation. A
+              connection is developed through rapport building, open ended
+              questions, and the general flow of the session.
+            </p>
+            <div class="content__image">
+              <img
+                src="Connectivity Art No Font.png"
+                alt=""
+                class="content__image-item"
+              />
+              <div class="content__image-cover">
+                <p class="content__image-name">Steve Johnson From Pexels</p>
+              </div>
+            </div>
+            <h3 class="content__title content__title_item_method">
+              2. Empathy
+            </h3>
+            <p class="content__text">
+              Empathy is different from sympathy, which can imply pity, and
+              conveying empathy is also not a passive process. A good therapist
+              will generally be able to sense another person’s emotion through
+              concentration and active listening, but the process requires
+              continued engagement. Because empathy can be expressed in many
+              ways, especially in therapy, there is no “right” way for a
+              therapist to demonstrate understanding and acceptance to those in
+              treatment.
+            </p>
+
+            <div class="content__image">
+              <img
+                src="Empathy No Font.png"
+                alt=""
+                class="content__image-item"
+              />
+              <div class="content__image-cover">
+                <p class="content__image-name">Jung-Hua Liu from Pexels</p>
+              </div>
+            </div>
+
+            <h3 class="content__title content__title_item_method">
+              3. Mindfulness
+            </h3>
+            <p class="content__text">
+              Mindfulness means living in the present moment. Essentially, it
+              means being (intentionally) more aware and awake to each moment
+              and being fully engaged in what is happening in one’s surroundings
+              – with acceptance and without judgment.
+            </p>
+
+            <div class="content__image">
+              <img
+                src="Mindfulness No Font.png"
+                alt=""
+                class="content__image-item"
+              />
+              <div class="content__image-cover">
+                <p class="content__image-name">Steve Johnson from Pexels</p>
+              </div>
+            </div>
+
+            <h3 class="content__title content__title_item_method">
+              4. Acceptance And Committment
+            </h3>
+            <p class="content__text">
+              Acceptance and commitment therapy (ACT) is a type of psychotherapy
+              that emphasizes acceptance as a way to deal with negative
+              thoughts, feelings, symptoms, or circumstances. It also encourages
+              increased commitment to healthy, constructive activities that
+              uphold your values or goals.
+            </p>
+            <div class="content__image">
+              <img
+                src="Acceptance And Commitment No Font.png"
+                alt=""
+                class="content__image-item"
+              />
+              <div class="content__image-cover">
+                <p class="content__image-name">Anni Roenkae from Pexels</p>
+              </div>
+            </div>
+          </div>
+          <div class="content__item content__item_type_copyright">
+            <p class="content__text content__text_type_copyright">
+              Abstract Portrait Artist: Steve Johnson, Jung-Hua Liu, and Anni
+              Roenkae
+            </p>
+            <p class="content__text content__text_type_copyright">
+              Web-Page Designed by: Sou H. Saeteurn
+            </p>
+            <p class="content__text content__text_type_copyright"></p>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
